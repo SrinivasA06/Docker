@@ -17,3 +17,5 @@ https://www.geeksforgeeks.org/how-to-install-pip-on-windows/
 Step 3: Install the requirements file using the below command::
 
 pip install -r requirements.txt
+
+Step 4: Run the object_tracking.py file to get the results.

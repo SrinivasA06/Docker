@@ -3,7 +3,7 @@ Step 1: Check if Python is installed or not//
 
 python --version
 
-	If Already installed Output:: Python ________ (version)
+	If Already installed Output:: Python 3 (version)
 
 Or https://www.python.org/ftp/python/3.11.3/python-3.11.3-amd64.exe
 

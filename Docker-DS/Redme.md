@@ -1,3 +1,4 @@
+
 Step 1: Check if Python is installed or not//
 
 python --version
